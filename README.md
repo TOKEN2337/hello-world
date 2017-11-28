@@ -1,2 +1,2 @@
 # hello-world
-Just another rep I good like GitHub
+Just another rep
